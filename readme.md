@@ -1,7 +1,3 @@
-Perfect! Here’s a **full GitHub-ready README.md** for your **Airport Game** project with **Mermaid diagrams** (flowchart + architecture). You can copy-paste this directly into your repo.
-
----
-
 # Airport Game ✈️
 
 A web-based airport simulation game built with **JavaScript**, **HTML/CSS**, and **Python**.  
